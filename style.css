@@ -169,6 +169,15 @@ button:hover{
     border-radius:12px;
 }
 
+.merchant{
+    text-align:center;
+    padding:80px 20px;
+}
+
+.merchant p{
+    margin:20px 0;
+}
+
 .download{
     text-align:center;
     padding:80px 20px;
