@@ -170,12 +170,12 @@ button:hover{
 }
 
 .merchant{
-    text-align:center;
+    text-align:right;
     padding:80px 20px;
 }
 
 .merchant p{
-    text-align:center;
+    text-align:right;
     margin:20px 0;
 }
 
